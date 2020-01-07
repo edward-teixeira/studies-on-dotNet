@@ -1,0 +1,2 @@
+﻿O Objetivo do LaunchSettingsJson é configurar como a aplicação será
+iniciada no visual studio.

@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{B0535F17-201B-4065-8E08-741F61BDBEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1.1-SortedList", "A1.1-SortedList\A1.1-SortedList.csproj", "{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1.2-SortedDictionary", "A1.2-SortedDictionary\A1.2-SortedDictionary.csproj", "{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1.3-SortedSet", "A1.3-SortedSet\A1.3-SortedSet.csproj", "{BCDA3665-D2B8-48EB-ACED-2A90162D7A70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula2", "Aula2", "{95E42166-2FFF-4765-92ED-43C0903B7715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.1-ArraysMultidimensionais", "A2.1-ArraysMultidimensionais\A2.1-ArraysMultidimensionais.csproj", "{BF047A9E-5CA3-4793-9253-C330A998D166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.2-JaggedArrays", "A2.2-JaggedArrays\A2.2-JaggedArrays.csproj", "{A9ECC666-E8E3-408D-88B6-7135E07FD68C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula3", "Aula3", "{A32109BF-F1AF-4129-A4E5-D20DE998C588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.1-ConsultandoCollections", "A3.1-ConsultandoCollections\A3.1-ConsultandoCollections.csproj", "{A55E08C2-F246-49C1-8D4F-797C652E0FDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula4-OutrosOperadoresLINQ", "Aula4-OutrosOperadoresLINQ", "{B948F2E3-5244-4EA1-8069-1DAEFA08E544}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\A4.1-OutrosOperadoresLINQ.csproj = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\A4.1-OutrosOperadoresLINQ.csproj
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\App.config = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\App.config
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\Program.cs = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.1-OutrosOperadoresLINQ\Program.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula5", "Aula5", "{1501674D-9EFF-40AA-8523-F89E46A7972A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.2-OperadoresDeConjuntos\App.config = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.2-OperadoresDeConjuntos\App.config
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.2-OperadoresDeConjuntos\Program.cs = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\4 - Mais Operadores LINQ\csharp-collections-2-2dd14403e95d9e852be727e5e43a4c50f294d217\A4.2-OperadoresDeConjuntos\Program.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula6", "Aula6", "{602FBA41-ACF0-4E05-BB70-705DD05A82E4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\5 - Convertendo e Enumerando Coleções\csharp-collections-2-2d98b2cb29c0bc2a8e39f24f0ec813c28a698bd2\A5.1-Covariancia\Properties\AssemblyInfo.cs = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\5 - Convertendo e Enumerando Coleções\csharp-collections-2-2d98b2cb29c0bc2a8e39f24f0ec813c28a698bd2\A5.1-Covariancia\Properties\AssemblyInfo.cs
+		..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\5 - Convertendo e Enumerando Coleções\csharp-collections-2-2d98b2cb29c0bc2a8e39f24f0ec813c28a698bd2\A5.1-Covariancia\Program.cs = ..\..\..\..\..\Downloads\C# Collections parte 2 coleções ordenadas, arrays multidimensionais e consultas com LIN\5 - Convertendo e Enumerando Coleções\csharp-collections-2-2d98b2cb29c0bc2a8e39f24f0ec813c28a698bd2\A5.1-Covariancia\Program.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF047A9E-5CA3-4793-9253-C330A998D166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF047A9E-5CA3-4793-9253-C330A998D166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF047A9E-5CA3-4793-9253-C330A998D166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF047A9E-5CA3-4793-9253-C330A998D166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3ED3D9F1-54F7-4CDA-8055-CB6134C26A3F} = {B0535F17-201B-4065-8E08-741F61BDBEDE}
+		{A0261DFA-1D08-4FC8-8EFE-22CEBB30E951} = {B0535F17-201B-4065-8E08-741F61BDBEDE}
+		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70} = {B0535F17-201B-4065-8E08-741F61BDBEDE}
+		{BF047A9E-5CA3-4793-9253-C330A998D166} = {95E42166-2FFF-4765-92ED-43C0903B7715}
+		{A9ECC666-E8E3-408D-88B6-7135E07FD68C} = {95E42166-2FFF-4765-92ED-43C0903B7715}
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE} = {A32109BF-F1AF-4129-A4E5-D20DE998C588}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3412C4C7-87E1-4020-AD51-4C07B98A6F42}
+	EndGlobalSection
+EndGlobal

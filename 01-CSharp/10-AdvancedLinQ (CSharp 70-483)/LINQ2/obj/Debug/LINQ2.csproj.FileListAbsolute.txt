@@ -1,0 +1,13 @@
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\Database1.mdf
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\Database1_log.ldf
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.exe.config
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.exe
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\LINQ2.pdb
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\EntityFramework.dll
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\EntityFramework.xml
+C:\Users\edwar\source\repos\LINQ2\LINQ2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edwar\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.csproj.CopyComplete
+C:\Users\edwar\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\edwar\source\repos\LINQ2\LINQ2\obj\Debug\LINQ2.pdb

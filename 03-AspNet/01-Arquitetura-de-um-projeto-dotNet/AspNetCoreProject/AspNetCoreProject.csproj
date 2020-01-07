@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <!-- Versao do .NetCore utilizada no projeto-->
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <!-- Especifica o projeto irá rodar no proprio Host ao inves do IIES-->
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <!--Versao do Docker-->
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <!--User Secrets guarda chaves importants como a chave banco de dados-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <!--Pacote para dar suporte a docker-->
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
+
+  </ItemGroup>
+
+</Project>

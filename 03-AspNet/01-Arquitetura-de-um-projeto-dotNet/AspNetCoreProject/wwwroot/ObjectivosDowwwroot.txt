@@ -1,0 +1,3 @@
+Pasta destinada ao armazenamento de arquivos estaticos.
+
+Arquivos Estaticos: arquivos não compilados, ex: css, js, imagens etc.

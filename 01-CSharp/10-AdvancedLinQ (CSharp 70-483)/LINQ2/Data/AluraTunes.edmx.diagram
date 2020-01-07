@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bafcaa8a508d4056a3b5934ddeb0f3e1" Name="Diagram1">
+        <EntityTypeShape EntityType="Database1Model.Album" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Artista" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Cliente" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Faixa" Width="1.5" PointX="5.5" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Funcionario" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Genero" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.ItemNotaFiscal" Width="1.5" PointX="8.875" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.NotaFiscal" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Playlist" Width="1.5" PointX="7.5" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.TipoMidia" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <AssociationConnector Association="Database1Model.FK_AlbumArtistaId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_FaixaAlbumId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_ClienteSuporteId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_NotaFiscalClienteId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_FaixaGeneroId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_FaixaTipoMidiaId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_ItemNotaFiscalFaixaId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_FuncionarioSeReportaA" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK_ItemNotaFiscalNotaFiscalId" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.PlaylistFaixa" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
