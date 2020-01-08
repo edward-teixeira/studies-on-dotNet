@@ -86,12 +86,12 @@
 
 
 ## ASP.NET Core 
-  - [ ] C# and web development;
-  - [ ] Handling different requests;
-  - [ ] Routing with AspNet Core;
-  - [ ] Delivering HTML; 
-  - [ ] App Organization;
-  - [ ] Introduction to AspNet Core MVC;
+  - [x] C# and web development;
+  - [x] Handling different requests;
+  - [x] Routing with AspNet Core;
+  - [x] Delivering HTML; 
+  - [x] App Organization;
+  - [x] Introduction to AspNet Core MVC;
   - [ ] Rendering views with AspNet Core MVC;
 
 ## ASP.NET Core 2.0
