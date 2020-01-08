@@ -1,6 +1,3 @@
-“Live with your century, but do not be its creature.”
-― Friedrich Schiller
-
 > ### “Live with your century, but do not be its creature.” ― Friedrich Schiller
 
 
