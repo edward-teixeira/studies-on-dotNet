@@ -1,5 +1,8 @@
+> ### “Live with your century, but do not be its creature.” ― Friedrich Schiller
+
+
 # Learning Path
-![C# Logo](https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png)
+![C# Logo](https://miro.medium.com/max/591/1*K8-NHsRRBuUpuzphdkZ6MQ.png)
 
 ## Part 1
   - [x] History and Ecosystem;
@@ -83,12 +86,12 @@
 
 
 ## ASP.NET Core 
-  - [ ] C# and web development;
-  - [ ] Handling different requests;
-  - [ ] Routing with AspNet Core;
-  - [ ] Delivering HTML; 
-  - [ ] App Organization;
-  - [ ] Introduction to AspNet Core MVC;
+  - [x] C# and web development;
+  - [x] Handling different requests;
+  - [x] Routing with AspNet Core;
+  - [x] Delivering HTML; 
+  - [x] App Organization;
+  - [x] Introduction to AspNet Core MVC;
   - [ ] Rendering views with AspNet Core MVC;
 
 ## ASP.NET Core 2.0
