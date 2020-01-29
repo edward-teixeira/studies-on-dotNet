@@ -92,21 +92,21 @@
   - [x] Delivering HTML; 
   - [x] App Organization;
   - [x] Introduction to AspNet Core MVC;
-  - [ ] Rendering views with AspNet Core MVC;
+  - [x] Rendering views with AspNet Core MVC;
 
 ## ASP.NET Core 2.0
-  - [ ] ASP.NET Core Project;
-  - [ ] Ensure Created X;
-  - [ ] Data Service, Dependency Injection;
-  - [ ] Product Repository;
-  - [ ] Model Injection with Razer
-  - [ ] Working with Session;
-  - [ ] Tag Helper;
+  - [x] ASP.NET Core Project;
+  - [x] Ensure Created X;
+  - [x] Data Service, Dependency Injection;
+  - [x] Repository Pattern;
+  - [x] Model Injection with Razor
+  - [x] Working with Session;
+  - [x] Tag Helper;
 
  ## ASP.NET Core 2.1
 
   - [ ] Ajax Calls;
-  - [ ] Creating a view model;
+  - [x] Creating a view model;
   - [ ] Refactoring;
   - [ ] ValidateAntiForgeryToken;
   - [ ] Security; 
